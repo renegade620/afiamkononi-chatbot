@@ -1,0 +1,72 @@
+pregnancy_qa_data = [
+    {"question": "Is it normal to have morning sickness?",
+     "answer": "Yes, morning sickness (nausea and vomiting) is very common in early pregnancy, usually during the first trimester. It's caused by hormonal changes and is generally not harmful, but if it's severe, consult your doctor."},
+    {"question": "What are the early signs of pregnancy?",
+     "answer": "Early signs of pregnancy can include a missed period, nausea, fatigue, frequent urination, breast tenderness, and mood swings. However, these signs can also be caused by other factors, so a pregnancy test is necessary for confirmation."},
+    {"question": "Can I drink coffee while pregnant?",
+     "answer": "It's generally recommended to limit caffeine intake during pregnancy to under 200mg per day (about one 12-ounce cup of coffee). High caffeine intake has been linked to potential risks. Consult your doctor for personalized advice."},
+    {"question": "What foods should I avoid during pregnancy?",
+     "answer": "Foods to avoid or limit during pregnancy include raw or undercooked meats and seafood, unpasteurized dairy products, certain types of fish high in mercury (like shark, swordfish, king mackerel, tilefish), and excessive caffeine and alcohol.  Always consult with your doctor or a registered dietitian for personalized dietary advice."},
+    {"question": "When should I feel my baby move?",
+     "answer": "Most women start to feel their baby's movements (quickening) between 16 and 25 weeks of pregnancy. First-time mothers may feel them later. If you haven't felt movement by 24-25 weeks, it's important to discuss it with your healthcare provider."},
+    {"question": "What are some safe exercises during pregnancy?",
+     "answer": "Generally, low-impact exercises like walking, swimming, prenatal yoga, and stationary cycling are considered safe during pregnancy.  However, always consult your doctor before starting any new exercise program during pregnancy to ensure it's safe for you."},
+    {"question": "Is back pain normal during pregnancy?",
+     "answer": "Yes, back pain is very common during pregnancy, especially in the later trimesters. It's often due to weight gain, hormonal changes, and shifts in posture.  There are exercises and strategies to help manage back pain, but if it's severe, consult your doctor."},
+    {"question": "What should I pack in my hospital bag for labor?",
+     "answer": "Items to pack in your hospital bag for labor include comfortable clothing, toiletries, snacks, phone charger, insurance information, and baby clothes for going home.  Check with your hospital for their specific recommendations."},
+    {"question": "How much weight should I gain during pregnancy?",
+     "answer": "The recommended weight gain during pregnancy varies based on your pre-pregnancy BMI.  Generally, women with a healthy BMI are advised to gain 25-35 pounds.  Discuss your individual weight gain goals with your doctor."},
+    {"question": "What are the different stages of labor?",
+     "answer": "Labor is typically divided into three stages: Stage 1 (dilation and effacement of the cervix), Stage 2 (pushing and delivery of the baby), and Stage 3 (delivery of the placenta).  Stage 1 is further divided into early, active, and transition labor."},
+
+     # First Trimester Questions
+    {"question": "I'm experiencing fatigue, is this normal in early pregnancy?",
+     "answer": "Yes, fatigue is very common in the first trimester due to hormonal changes and your body working hard to support the pregnancy. Rest when you can, eat nutritious foods, and stay hydrated. If fatigue is overwhelming or accompanied by other concerning symptoms, consult your doctor."},
+    {"question": "What can I do to relieve morning sickness?",
+     "answer": "To relieve morning sickness, try eating small, frequent meals, especially bland foods like crackers or toast. Ginger, in the form of ginger ale or ginger candies, may also help. Avoid strong smells and greasy or spicy foods. If morning sickness is severe, talk to your doctor about safe medications or remedies."},
+    {"question": "Is spotting in early pregnancy normal?",
+     "answer": "Light spotting in early pregnancy can be normal and may be due to implantation bleeding. However, any bleeding during pregnancy should be discussed with your doctor to rule out potential complications like ectopic pregnancy or miscarriage."},
+    {"question": "What prenatal vitamins should I take?",
+     "answer": "It's generally recommended to start taking prenatal vitamins, especially folic acid, before conception or as soon as you find out you're pregnant. Folic acid helps prevent neural tube defects. Your doctor can recommend a specific prenatal vitamin based on your individual needs."},
+    {"question": "Are pregnancy tests accurate?",
+     "answer": "Home pregnancy tests are generally very accurate when used correctly, especially if taken after a missed period. Follow the instructions carefully. For the most accurate result, take a test a week after your missed period. If you get a negative result but still suspect you're pregnant, test again in a few days or see your doctor for a blood test, which is even more accurate."},
+
+    # Second Trimester Questions
+    {"question": "When will I have my anatomy scan?",
+     "answer": "The anatomy scan, a detailed ultrasound to check your baby's development, is typically performed between 18 and 22 weeks of pregnancy. Your healthcare provider will schedule this appointment for you."},
+    {"question": "What are Braxton Hicks contractions?",
+     "answer": "Braxton Hicks contractions, also known as 'practice contractions,' are irregular and often painless tightenings of the uterus that may start in the second trimester or later. They are different from true labor contractions, which become regular, stronger, and more frequent. If you are unsure if you are experiencing Braxton Hicks or labor contractions, contact your healthcare provider."},
+    {"question": "Is it safe to fly during the second trimester?",
+     "answer": "For uncomplicated pregnancies, flying is generally considered safe during the second trimester. However, it's always best to check with your doctor, especially if you have any pregnancy complications. Stay hydrated, move around during the flight, and wear compression stockings to reduce the risk of blood clots."},
+    {"question": "What should I expect at my 20-week ultrasound?",
+     "answer": "The 20-week ultrasound, or anatomy scan, is a detailed ultrasound where the technician will check your baby's anatomy, organ development, growth, and amniotic fluid levels. They may also be able to determine the baby's sex if you wish to know.  It's a great opportunity to see your baby on the screen."},
+    {"question": "I feel fluttering in my stomach, is that the baby moving?",
+     "answer": "Yes, that fluttering sensation you're feeling is likely your baby's first movements, often called 'quickening.' It's usually felt between 16 and 25 weeks, and can feel like butterflies or gentle taps. Enjoy this special milestone!"},
+
+    # Third Trimester Questions
+    {"question": "What are the signs of preterm labor?",
+     "answer": "Signs of preterm labor (labor before 37 weeks of pregnancy) include regular contractions that get stronger and closer together, back pain that comes and goes, pelvic pressure, vaginal discharge (watery, mucus-like, or bloody), and your water breaking. If you experience any of these signs, contact your healthcare provider immediately."},
+    {"question": "How can I prepare for labor and delivery?",
+     "answer": "Preparing for labor and delivery can involve attending childbirth classes, learning about labor stages and pain management options, practicing relaxation techniques, creating a birth plan, and packing your hospital bag. Discuss your preferences and concerns with your healthcare provider."},
+    {"question": "What is gestational diabetes?",
+     "answer": "Gestational diabetes is a type of diabetes that develops during pregnancy. It means your blood sugar levels are higher than normal. It usually goes away after birth, but it requires management during pregnancy to ensure the health of both you and your baby. You will typically be screened for gestational diabetes around 24-28 weeks of pregnancy."},
+    {"question": "What happens if my baby is breech?",
+     "answer": "If your baby is breech (feet or buttocks first) close to your due date, your healthcare provider will discuss options to encourage the baby to turn head-down. These may include exercises, external cephalic version (ECV - manually turning the baby), or planning for a Cesarean delivery if the baby remains breech.  Breech presentation is not uncommon, and there are ways to manage it."},
+    {"question": "When should I go to the hospital for labor?",
+     "answer": "You should go to the hospital or birthing center when you experience regular, painful contractions that are about 5 minutes apart and lasting for about a minute each, for at least an hour (the '5-1-1 rule'). Other reasons to go to the hospital include your water breaking, significant vaginal bleeding, or decreased fetal movement. Always call your healthcare provider if you are unsure."},
+
+
+    # Postpartum and Newborn Questions
+    {"question": "What are some essentials for newborn care?",
+     "answer": "Newborn essentials include diapers, wipes, clothing (onesies, sleepers), blankets, a safe sleep space (crib or bassinet), car seat, and feeding supplies (bottles and formula if formula-feeding, or breastfeeding support items).  You may also want items like a baby monitor, baby carrier, and stroller.  Keep it simple initially and add items as needed."},
+    {"question": "How often should I feed my newborn?",
+     "answer": "Newborns typically feed every 2-3 hours, or on demand, in the early weeks. This may be around 8-12 feedings in 24 hours.  Watch for baby's hunger cues like rooting, sucking on fingers, and fussiness.  Breastfed babies may feed more frequently than formula-fed babies.  Discuss feeding schedules and amounts with your pediatrician."},
+    {"question": "What is postpartum depression?",
+     "answer": "Postpartum depression (PPD) is a mood disorder that can affect women after childbirth. It's more than just 'baby blues' and involves persistent feelings of sadness, anxiety, irritability, fatigue, and difficulty bonding with the baby. PPD is treatable, and it's important to seek help from your doctor or mental health professional if you think you might have PPD."},
+    {"question": "How can I relieve postpartum pain?",
+     "answer": "Postpartum pain can include perineal pain (if you had a vaginal delivery), afterpains (uterine contractions), and Cesarean incision pain. Pain relief methods include pain medication (as prescribed by your doctor), ice packs, warm baths or sitz baths, and gentle movement. Rest and good posture are also important for healing. Talk to your doctor about pain management options."},
+    {"question": "When can I resume exercise after giving birth?",
+     "answer": "It's generally recommended to wait until your 6-week postpartum checkup before resuming strenuous exercise.  Start with gentle activities like walking and gradually increase intensity as you feel ready and as cleared by your doctor. Listen to your body and don't push yourself too hard too soon. Pelvic floor exercises are often recommended in the early postpartum period."}
+
+]
